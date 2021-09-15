@@ -120,3 +120,17 @@ footer p{
   display: flex;
   justify-content: center;
 }
+canvas{
+  margin: 0,auto;
+  width: 50%;
+  display: inline;
+}
+#objeto{
+  display: flex;
+  justify-content: center;
+  position:relative;
+  top: 70px;
+  width: 50%;
+  margin: auto;
+  justify-self: center;
+}
